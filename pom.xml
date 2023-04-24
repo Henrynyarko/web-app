@@ -5,7 +5,7 @@
 	<groupId>com.mt</groupId>
 	<artifactId>maven-web-application</artifactId>
 	<packaging>war</packaging>
-	<version>3.1.3-SNAPSHOT</version>
+	<version>3.1.4-SNAPSHOT</version>
 	
 	<name>maven-web-application</name>
 
@@ -97,7 +97,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>JOMACS Releases Nexus Repository</name>
-	      <url>http:/172.31.30.245/:8081/repository/gtb-release/</url>
+	      <url>http:/172.31.30.245:8081/repository/gtb-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
