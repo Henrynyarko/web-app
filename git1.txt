@@ -1,5 +1,8 @@
 henry Nyarko firts project
 linux
 bash
-git
+github
 maven
+'tomcat
+sonar
+nexus
