@@ -1,0 +1,5 @@
+henry Nyarko firts project
+linux
+bash
+git
+maven
