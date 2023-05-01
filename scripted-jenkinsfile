@@ -1,6 +1,6 @@
 //Scripted Groovy
 
-node("node1"){
+node(""){
  
  def MHD = tool name: "maven 3.88"
   
