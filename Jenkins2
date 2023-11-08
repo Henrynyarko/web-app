@@ -46,7 +46,7 @@ stage('4.backupArchitfacts'){
  }
  stage('8.Emailnotification'){
   steps{
-    emailext body: 'The build is success', subject: 'Build Success', to: 'info@jomacsit.com'
+    emailext body: 'The builds is success', subject: 'Build Success', to: 'info@jomacsit.com'
   }
  }
 }
